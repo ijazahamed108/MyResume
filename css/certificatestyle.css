@@ -1,0 +1,48 @@
+
+.certificatioins{
+    margin-top: 50px;
+  }
+
+  body{
+      background-color: #edf1ff;
+      align-content: center;
+  }
+   li:hover{
+    color:#C490E4;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  /* Style the header */
+  .header {
+    background-color: #CDF0EA;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style the top navigation bar */
+  .topnav {
+    overflow: hidden;
+    background-color:#DEEDF0;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color:#51C4D3;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #DBE6FD;
+    color: black;
+  }
